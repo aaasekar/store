@@ -50,6 +50,7 @@
             this.lblLname = new System.Windows.Forms.Label();
             this.panelControl1 = new DevExpress.XtraEditors.PanelControl();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.navBarItem6 = new DevExpress.XtraNavBar.NavBarItem();
             ((System.ComponentModel.ISupportInitialize)(this.tabMain)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.panelControl2)).BeginInit();
             this.panelControl2.SuspendLayout();
@@ -107,7 +108,8 @@
             this.navBarItem2,
             this.navBarItem3,
             this.navBarItem4,
-            this.navBarItem5});
+            this.navBarItem5,
+            this.navBarItem6});
             this.navMain.Location = new System.Drawing.Point(2, 32);
             this.navMain.Name = "navMain";
             this.navMain.OptionsNavPane.ExpandedWidth = 168;
@@ -121,7 +123,8 @@
             this.navBarGroup2.Caption = "Salary";
             this.navBarGroup2.Expanded = true;
             this.navBarGroup2.ItemLinks.AddRange(new DevExpress.XtraNavBar.NavBarItemLink[] {
-            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem5)});
+            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem5),
+            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarItem6)});
             this.navBarGroup2.Name = "navBarGroup2";
             // 
             // navBarItem5
@@ -224,6 +227,11 @@
             // 
             this.timer1.Interval = 10000;
             // 
+            // navBarItem6
+            // 
+            this.navBarItem6.Caption = "Sample Item";
+            this.navBarItem6.Name = "navBarItem6";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -274,6 +282,7 @@
         private DevExpress.XtraNavBar.NavBarItem navBarItem3;
         private DevExpress.XtraNavBar.NavBarItem navBarItem4;
         private DevExpress.XtraNavBar.NavBarItem navBarItem5;
+        private DevExpress.XtraNavBar.NavBarItem navBarItem6;
     }
 }
 
