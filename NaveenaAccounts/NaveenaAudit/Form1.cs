@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
+
 namespace NaveenaAccounts
 {
     public partial class Form1 : DevExpress.XtraEditors.XtraForm
@@ -55,6 +56,7 @@ namespace NaveenaAccounts
         {
             Modules.ChequeBook inv = new NaveenaAccounts.Modules.ChequeBook();
             newtab(inv, " Cheque Book Master");
+            newtab(inv, "check number");
         }
 
         private void navBarItem3_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
@@ -73,12 +75,14 @@ namespace NaveenaAccounts
         {
             Modules.SalaryUnPaid inv = new NaveenaAccounts.Modules.SalaryUnPaid();
             newtab(inv, " Salary Un Paid");
+            //nothing
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
             Modules.Sample inv = new NaveenaAccounts.Modules.Sample();
             newtab(inv, " Salary Un Paid");
+            //nothing
         }
 
         

@@ -84,3 +84,20 @@ F:\store\NaveenaAccounts\NaveenaAudit\obj\Debug\NaveenaAccounts.Properties.Resou
 F:\store\NaveenaAccounts\NaveenaAudit\obj\Debug\NaveenaAccounts.Report.ChequePrint.resources
 F:\store\NaveenaAccounts\NaveenaAudit\obj\Debug\NaveenaAccounts.XtraForm1.resources
 F:\store\NaveenaAccounts\NaveenaAudit\obj\Debug\NaveenaAccounts.csproj.GenerateResource.Cache
+D:\New Folder\store\NaveenaAccounts\NaveenaAudit\bin\Debug\NaveenaAccounts.exe.config
+D:\New Folder\store\NaveenaAccounts\NaveenaAudit\obj\Debug\NaveenaAccounts.exe
+D:\New Folder\store\NaveenaAccounts\NaveenaAudit\obj\Debug\NaveenaAccounts.pdb
+D:\New Folder\store\NaveenaAccounts\NaveenaAudit\obj\Debug\ResolveAssemblyReference.cache
+D:\New Folder\store\NaveenaAccounts\NaveenaAudit\obj\Debug\NaveenaAccounts.Form1.resources
+D:\New Folder\store\NaveenaAccounts\NaveenaAudit\obj\Debug\NaveenaAccounts.frmLogin.resources
+D:\New Folder\store\NaveenaAccounts\NaveenaAudit\obj\Debug\NaveenaAccounts.Modules.BankMaster.resources
+D:\New Folder\store\NaveenaAccounts\NaveenaAudit\obj\Debug\NaveenaAccounts.Modules.BillEntry.resources
+D:\New Folder\store\NaveenaAccounts\NaveenaAudit\obj\Debug\NaveenaAccounts.Modules.Billing.resources
+D:\New Folder\store\NaveenaAccounts\NaveenaAudit\obj\Debug\NaveenaAccounts.Modules.ChequeBook.resources
+D:\New Folder\store\NaveenaAccounts\NaveenaAudit\obj\Debug\NaveenaAccounts.Modules.ChequeMaster.resources
+D:\New Folder\store\NaveenaAccounts\NaveenaAudit\obj\Debug\NaveenaAccounts.Modules.SalaryUnPaid.resources
+D:\New Folder\store\NaveenaAccounts\NaveenaAudit\obj\Debug\NaveenaAccounts.Modules.Sample.resources
+D:\New Folder\store\NaveenaAccounts\NaveenaAudit\obj\Debug\NaveenaAccounts.Properties.Resources.resources
+D:\New Folder\store\NaveenaAccounts\NaveenaAudit\obj\Debug\NaveenaAccounts.Report.ChequePrint.resources
+D:\New Folder\store\NaveenaAccounts\NaveenaAudit\obj\Debug\NaveenaAccounts.XtraForm1.resources
+D:\New Folder\store\NaveenaAccounts\NaveenaAudit\obj\Debug\NaveenaAccounts.csproj.GenerateResource.Cache
