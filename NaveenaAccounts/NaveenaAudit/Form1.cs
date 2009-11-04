@@ -64,6 +64,8 @@ namespace NaveenaAccounts
             Modules.BillEntry inv = new NaveenaAccounts.Modules.BillEntry();
             newtab(inv, " Bill Entry");
             newtab(inv, "bill laod");
+            newtab(inv, "bill laodbill laodbill laodbill laod");
+
         }
 
         private void navBarItem4_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
